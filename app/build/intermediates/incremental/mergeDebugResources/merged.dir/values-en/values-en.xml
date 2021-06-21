@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AcercaDeDescrip">My name is Luis Eugenio Saldarriaga Cardona, my professional training was carried out at the CESDE technical institution in the city of Medellín. My areas of work range from mobile application development, web programming and database management; Regarding my experience, I have been part of the automation process of an inter-American company in the Chemical sector called Andercol, in which I held the position of intern in charge of the entire process of implementation of new information technologies. </string>
+    <string name="DescripTuris">One of its main attractions and for which it receives its well-known nickname "El Balcón del Occidente" are the large number of viewpoints that dazzle our eyes as they rise over mountain ranges, rivers and mountains.</string>
+    <string name="actividad1">Rivera del Río Cauca:</string>
+    <string name="actividad10">La herradura agricultural farm:</string>
+    <string name="actividad10Desc">Production and sale of agricultural products. Coffee and Cattle Farms.</string>
+    <string name="actividad1Desc">Moritos sector. The place has a camping area and you can practice fishing, but only in the season of "subienda". It has a great landscape and there is a boat to pass from side to side the Cauca River. You must call in advance to make the tour, because it passes through several privately owned farms.</string>
+    <string name="actividad2">El Alto del Sillón:</string>
+    <string name="actividad2Desc">El Socorro path. This place offers excellent landscapes and great visibility. It is a natural viewpoint and offers an ecological tour. At 1 km, there is a sugar mill where you can see the manufacturing process of the product.</string>
+    <string name="actividad3">Alto de Mojones:</string>
+    <string name="actividad3Desc">Path Mojones. Located 2 kms. from the header. Traditional site to raise kites, there is held every year in August The Kite Festival, which is scheduled on the second bridge. Ecological walks are also carried out and this place is considered an unconditioned natural viewpoint.</string>
+    <string name="actividad4">Corregimiento La Herradura:</string>
+    <string name="actividad4Desc">Small hamlet, recreational park and viewpoint towards the Cauca River. Estadero.</string>
+    <string name="actividad5">El Añil:</string>
+    <string name="actividad5Desc">Located on the border with Titiribí. Located 25 kms. from the header. On this site there are streams suitable for taking baths.</string>
+    <string name="actividad6">Lookout Palo Blanco:</string>
+    <string name="actividad6Desc">From there you can see the entire municipality. Located in the path of Pablo Blanco. The attraction of this site are its landscapes and its waterfalls. You can go to the place by car or horse. Tourists are recommended to wear comfortable clothes for the cold, very comfortable shoes, and bring cold cuts or snacks.</string>
+    <string name="actividad7">Lookout El Chuscal:</string>
+    <string name="actividad7Desc">From there you can see the Central mountain range, located in the El Chuscas village.</string>
+    <string name="actividad8">Shrine of mom Maria:</string>
+    <string name="actividad8Desc">Colonial-style church inside which there is a grotto. Bankruptcy path.</string>
+    <string name="actividad9">Panoramic Central Mountain range:</string>
+    <string name="actividad9Desc">Located in the pathways of El Chuscas, Palo Blanco, Capilla en La Quiebra. The attraction of this site are its landscapes and its waterfalls. You can go to the place by car or horse. Tourists are recommended to wear cool clothes and very comfortable shoes, bring cold cuts or snacks. It has the Estadero La Herradura, it does not have accommodation.</string>
+    <string name="app_name">Macondo Guide</string>
+    <string name="bienvenida">Where are we going today?</string>
+    <string name="departamentos">Departments</string>
+    <string name="descripcion">Armenia, popularly known as Armenia Mantequilla is a Colombian municipality, which is located in the western subregion of the department of Antioquia. \ N A bit of its history is that when the conquerors were heading towards the Aburrá region, they had to go first and through therefore discover a territory that currently occupies the municipality of Armenia. These gentlemen gave their peculiar nickname "Butter" to the region, as they say, due to the presence of a hill in the place, crowned by abundant White yarumos that from a distance gave the impression of resembling a large ball of butter. Hence this peculiar name.</string>
+    <string name="descripcionCeleb">Its main celebration is the Fiambre and Geranium festivities, which take place in the first weeks of November.</string>
+    <string name="fiestas">Parties:</string>
+    <string name="informacion">Information</string>
+    <string name="municipios">Municipalities</string>
+    <string name="opcion_1">Spanish</string>
+    <string name="opcion_2">English</string>
+    <string name="opcion_3">about me</string>
+    <string name="titulo">Armenia</string>
+    <string name="turismo">Tourism:</string>
+</resources>

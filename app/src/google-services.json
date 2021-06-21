@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767608181763",
+    "project_id": "proyecto-macondo",
+    "storage_bucket": "proyecto-macondo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767608181763:android:30123980c02891c3df2a36",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_macondo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767608181763-f6d7j872r1spbpdabdle2td0au37jjhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfbbg7wpnXgSa5oPA6ubDk2u-BMPa3Qfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767608181763-f6d7j872r1spbpdabdle2td0au37jjhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

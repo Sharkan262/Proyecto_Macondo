@@ -1,0 +1,49 @@
+com/example/proyecto_macondo/databinding/ActivityAcercadeBinding.java
+ com.example.proyecto_macondo.databinding.ActivityAcercadeBinding
+com/example/proyecto_macondo/databinding/ActivityInfMunicipioBinding.java
+ com.example.proyecto_macondo.databinding.ActivityInfMunicipioBinding
+com/example/proyecto_macondo/databinding/ItemInfBinding.java
+ com.example.proyecto_macondo.databinding.ItemInfBinding
+com/example/proyecto_macondo/Acercade.java
+ com.example.proyecto_macondo.Acercade
+com/example/proyecto_macondo/Informacion.java
+ com.example.proyecto_macondo.Informacion
+com/example/proyecto_macondo/AdaptadorDepartamentos.java
+ com.example.proyecto_macondo.AdaptadorDepartamentos
+ com.example.proyecto_macondo.AdaptadorDepartamentos$viewHolderDep
+ com.example.proyecto_macondo.AdaptadorDepartamentos$viewHolderDep$1
+com/example/proyecto_macondo/databinding/ActivityMainBinding.java
+ com.example.proyecto_macondo.databinding.ActivityMainBinding
+com/example/proyecto_macondo/databinding/ItemMunBinding.java
+ com.example.proyecto_macondo.databinding.ItemMunBinding
+com/example/proyecto_macondo/AdaptadorInformacion.java
+ com.example.proyecto_macondo.AdaptadorInformacion
+ com.example.proyecto_macondo.AdaptadorInformacion$viewHolderInf
+com/example/proyecto_macondo/MainActivity.java
+ com.example.proyecto_macondo.MainActivity
+ com.example.proyecto_macondo.MainActivity$1
+com/example/proyecto_macondo/Municipio.java
+ com.example.proyecto_macondo.Municipio
+com/example/proyecto_macondo/Departamento.java
+ com.example.proyecto_macondo.Departamento
+com/example/proyecto_macondo/Splash.java
+ com.example.proyecto_macondo.Splash
+ com.example.proyecto_macondo.Splash$1
+com/example/proyecto_macondo/databinding/ActivitySplashBinding.java
+ com.example.proyecto_macondo.databinding.ActivitySplashBinding
+com/example/proyecto_macondo/MainMunicipios.java
+ com.example.proyecto_macondo.MainMunicipios
+ com.example.proyecto_macondo.MainMunicipios$1
+com/example/proyecto_macondo/InfMunicipio.java
+ com.example.proyecto_macondo.InfMunicipio
+ com.example.proyecto_macondo.InfMunicipio$1
+com/example/proyecto_macondo/BuildConfig.java
+ com.example.proyecto_macondo.BuildConfig
+com/example/proyecto_macondo/databinding/ActivityMainMunicipiosBinding.java
+ com.example.proyecto_macondo.databinding.ActivityMainMunicipiosBinding
+com/example/proyecto_macondo/AdaptadorMunicipios.java
+ com.example.proyecto_macondo.AdaptadorMunicipios
+ com.example.proyecto_macondo.AdaptadorMunicipios$viewHolderMun
+ com.example.proyecto_macondo.AdaptadorMunicipios$viewHolderMun$1
+com/example/proyecto_macondo/databinding/ItemListaBinding.java
+ com.example.proyecto_macondo.databinding.ItemListaBinding

@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_acercade.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\activity_acercade.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_inf.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\item_inf.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\font_alegreya_sans_sc_thin.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\font\\alegreya_sans_sc_thin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mariposa.png.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\drawable-v24\\mariposa.png"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\font_amethysta.ttf.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\font\\amethysta.ttf"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_municipios.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\activity_main_municipios.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_inf_municipio.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\activity_inf_municipio.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\raw_birds.mp3.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\raw\\birds.mp3"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_foto.jpg.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\drawable-v24\\foto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_mun.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\item_mun.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_lista.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\item_lista.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\font_average.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\font\\average.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\font_aguafina_script.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\font\\aguafina_script.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mrles\\AndroidStudioProjects\\Proyecto_Macondo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

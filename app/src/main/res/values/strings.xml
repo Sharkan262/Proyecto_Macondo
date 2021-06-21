@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Guía Macondo</string>
+    <string name="departamentos">Departamentos</string>
+    <string name="municipios">Municipios</string>
+    <string name="bienvenida">¿A dónde iremos hoy?</string>
+    <string name="informacion">Información</string>
+    <string name="AcercaDeDescrip">Mi nombre es Luis Eugenio Saldarriaga Cardona, mi formación profesional fue llevada a cabo en la institución técnica CESDE de la ciudad de Medellín. Mis áreas de trabajo abarcan desde el desarrollo de aplicaciones móviles, programación para la web y gestión de bases de datos; referente a mi experiencia he hecho parte del proceso de automatización de una empresa interamericana del sector Químico llamada Andercol, en la cual desempeñe el cargo de practicante encargado de todo el proceso de implementación de las nuevas tecnologías de la información.</string>
+    <string name="opcion_1">Español</string>
+    <string name="opcion_2">Inglés</string>
+    <string name="opcion_3">Acerca de</string>
+    <string name="titulo">Armenia</string>
+    <string name="descripcion">Armenia, conocida popularmente como Armenia Mantequilla es un municipio colombiano, el cual se encuentra en la subregión Occidente del departamento de Antioquia.\n Un poco de su historia es que cuando los conquistadores se dirigían hacia la región de Aburrá, debían pasar primero y por lo tanto descubrir un territorio que actualmente ocupa el municipio de Armenia. Estos caballeros le dieron su peculiar apelativo “Mantequilla” a la región, según cuentan, debido a la presencia de un cerro en el lugar, Coronado por abundantes yarumos Blancos que desde la distancia le daban la impresión de parecerse a una gran bola de mantequilla. Por eso este peculiar nombre."</string>
+    <string name="fiestas">Fiestas:</string>
+    <string name="descripcionCeleb">Su principal celebración son las fiestas del Fiambre y el Geranio, las cuales se llevan a cabo en las primeras semanas de noviembre.</string>
+    <string name="turismo">Turismo: </string>
+    <string name="DescripTuris">Uno de sus principales atractivos y por el cual recibe su conocido apodo “El Balcón del Occidente” son la gran cantidad de miradores que nos deslumbran la mirada al alzarse sobre cordilleras, ríos y montañas.</string>
+    <string name="actividad1">Rivera del Río Cauca:</string>
+    <string name="actividad1Desc">Sector Moritos. El lugar cuenta con zona para acampar y se puede practicar la pesca, pero sólo en la época de subienda. Tiene un gran paisaje y existe una barca para pasar de lado a lado el río Cauca. Se debe llamar con anticipación para hacer el recorrido, debido a que se pasa por varias fincas de propiedad privada.</string>
+    <string name="actividad2">El Alto del Sillón:</string>
+    <string name="actividad2Desc">Vereda El Socorro. Este lugar brinda excelentes paisajes y gran visibilidad. Es un mirador natural y ofrece un recorrido ecológico. A 1 Km, hay un trapiche panelero en el que se puede ver el proceso de fabricación del producto.</string>
+    <string name="actividad3">Alto de Mojones:</string>
+    <string name="actividad3Desc">Vereda Mojones. Ubicado a 2 kms. de la cabecera. Sitio tradicional para elevar cometas, allí se realiza cada año por el mes de agosto El Festival de la Cometa, que se programa en el segundo puente. También se llevan a cabo caminatas ecológicas y se considera este lugar como un mirador natural no acondicionado.</string>
+    <string name="actividad4">Corregimiento La Herradura:</string>
+    <string name="actividad4Desc">Pequeño caserío, parque recreativo y mirador hacia el río Cauca. Estadero.</string>
+    <string name="actividad5">El Añil:</string>
+    <string name="actividad5Desc">Ubicado en el límite con Titiribí. Ubicado a 25 kms. de la cabecera. En este sitio se encuentran quebradas aptas para tomar baños.</string>
+    <string name="actividad6">Mirador Palo Blanco:</string>
+    <string name="actividad6Desc">Desde allí se observa todo el municipio. Ubicado en la vereda de Pablo Blanco. El atractivo de este sitio son sus paisajes y sus cascadas. Al lugar puede dirigirse en carro o caballo. Se les recomienda a los turistas llevar ropa cómoda para el frío, calzado muy cómodo, llevar fiambre o refrigerios.</string>
+    <string name="actividad7">Mirador El Chuscal:</string>
+    <string name="actividad7Desc">Desde allí se divisa la Cordillera Central, ubicada en la vereda El Chuscas.</string>
+    <string name="actividad8">Santuario de Mama María:</string>
+    <string name="actividad8Desc">Iglesia estilo colonial en cuyo interior se encuentra una gruta. Vereda La Quiebra.</string>
+    <string name="actividad9">Panorámica Cordillera Central:</string>
+    <string name="actividad9Desc">Ubicada en las veredas El Chuscas, Palo Blanco, Capilla en La Quiebra. El atractivo de este sitio son sus paisajes y sus cascadas. Al lugar puede dirigirse en carro o caballo. Se les recomienda a los turistas llevar ropa fresca y calzado muy cómodo, llevar fiambre o refrigerios. Dispone del Estadero La Herradura, no tiene alojamiento.</string>
+    <string name="actividad10">Granja Agrícola La Herradura. :</string>
+    <string name="actividad10Desc">Producción y venta de productos agrícolas.Fincas Cafeteras y Ganaderas.</string>
+
+
+</resources>

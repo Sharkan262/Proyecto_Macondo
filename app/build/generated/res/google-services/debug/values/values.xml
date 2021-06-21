@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">767608181763-f6d7j872r1spbpdabdle2td0au37jjhn.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">767608181763</string>
+    <string name="google_api_key" translatable="false">AIzaSyDfbbg7wpnXgSa5oPA6ubDk2u-BMPa3Qfg</string>
+    <string name="google_app_id" translatable="false">1:767608181763:android:30123980c02891c3df2a36</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDfbbg7wpnXgSa5oPA6ubDk2u-BMPa3Qfg</string>
+    <string name="google_storage_bucket" translatable="false">proyecto-macondo.appspot.com</string>
+    <string name="project_id" translatable="false">proyecto-macondo</string>
+</resources>
